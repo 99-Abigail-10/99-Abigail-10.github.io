@@ -24,7 +24,7 @@
         the issues being debated by the Continental Congress.
     </p>
 
-    <img src="http://www.firstladies.org/images/biographies/aadams/3.jpg" alt="An image of Abigail Adams">
+    <img src="A_Adams.jpg" alt="An image of Abigail Adams">
 
     <h3>
         <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Credits
