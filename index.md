@@ -27,7 +27,7 @@
     <img src="A_Adams.jpg" alt="An image of Abigail Adams">
 
     <h3>
-        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Credits
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Credits
     </h3>
 
     <p>
